@@ -24,7 +24,7 @@
         },
         "configurator": {
             "name": "N/A",
-            "semverRange": "or"
+            "semverRange": ""
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -38,14 +38,12 @@
         },
         "author": "Teodor-Emilian Petre",
         "peripherals": [
-			"AC","TCB","EVSYS"
+			"AC"
 		],
         "keywords": [
 			"Getting Started",
 			"AC",
-			"MPLAB X",
-			"TCB",
-			"EVSYS"
+			"MPLAB X"
 		],
         "additionalData": {
             "longDescription": {
